@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDancingClown)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheDancingClown&theme=slateorange&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDancingClown)
+
 
 <!--
 **TheDancingClown/TheDancingClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
