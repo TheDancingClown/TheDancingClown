@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheDancingClown&theme=slateorange&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDancingClown)
 
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Having just finished studying at Makers Academy, I'm currently updating my [CV](https://github.com/TheDancingClown/CV/blob/master/README.md), tidying up my github repos and trying to find fun projects to work on.
